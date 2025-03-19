@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    overflow: auto;
+    background-color: #c0e8e7;
+}
+
+#f-criarPlanta {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+    height: 80vh;
+    width: 100vw;
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+
+#f-criarPlanta {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    gap: 20px; 
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+
+#header-criarPlanta {
+    background-color: #c0e8b7;
+    position: absolute;
+    height: 5%;
+    width: 100%;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#titulo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+}
+
+#f-foto, #f-dadosDaPlanta {
+    display: flex;
+    flex-direction: column;
+    height: 95%;
+    padding: 10px;
+}
+
+#f-foto {
+    width: 50%; 
+}
+
+#f-dadosDaPlanta {
+    width: 50%;
+}
+
+#f-identificacao, #f-rega, #f-fertilizacao, #f-cuidado, #f-adicional {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

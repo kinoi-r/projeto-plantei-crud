@@ -1,0 +1,26 @@
+header {
+    height: 10vh;
+    background-color: #99c99f;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px;
+}
+
+#logo {
+    width: 100px; 
+    height: 100px;  
+    display: flex;
+} 
+
+#logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 10px;
+}
