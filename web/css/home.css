@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background-image: url("../img/background.jpg");
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    overflow: auto;
+    background-color: #ffcccb; /* Vermelho claro */
+}
+
+#titulo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+}

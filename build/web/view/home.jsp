@@ -26,7 +26,7 @@
             <section id="quarto">
                 <!-- Área de criar uma planta. Altura 70%, largura 50% da tela -->
                 <figure>
-                    <img src="../img/home.jpg" alt="imagem da homepage"/>
+                    <img src="../img/" alt="imagem da homepage"/>
                     <p>Comece criando uma nova planta:</p>
                     <a href="criarPlanta.jsp"</a>
                 </figure>
