@@ -10,22 +10,25 @@
         <div id="header"></div>
         <main>
             <section id="primeiro"
-                     <h2>Bem-vindo! Pronto para mais um dia cuidando de suas plantas?</h2>
+                <!--Principal. Altura 40%, largura 50% da tela -->
+                <h2>Bem-vindo! Pronto para mais um dia cuidando de suas plantas?</h2>
             </section>
-            
+
             <section id="segundo">
-                
+                <!--Será usado para criar um círculo. Altura 40%, largura 50% da tela -->
             </section>
-            
+
             <section id="terceiro">
-                <a href=""
+                <!-- Um link com bordas arredondadas. Altura 10%, largura 50% da tela -->
+                <a href="contato.html"/>
             </section>
-            
+
             <section id="quarto">
+                <!-- Área de criar uma planta. Altura 70%, largura 50% da tela -->
                 <figure>
-                         <img src="../img/home.jpg" alt="imagem da homepage"/>
-                         <p>Comece criando uma nova planta:</p>
-                         <a href="criarPlanta.jsp"</a>
+                    <img src="../img/home.jpg" alt="imagem da homepage"/>
+                    <p>Comece criando uma nova planta:</p>
+                    <a href="criarPlanta.jsp"</a>
                 </figure>
             </section>
         </main>
