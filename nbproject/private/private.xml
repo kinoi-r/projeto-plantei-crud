@@ -3,12 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/includes/footer.html</file>
-            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/view/contato.html</file>
-            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/includes/header.html</file>
-            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/view/home.jsp</file>
+            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/css/criarPlanta.css</file>
+            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/css/footer.css</file>
+            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/css/index.css</file>
             <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/css/home.css</file>
-            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/view/minhasPlantas.jsp</file>
+            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/css/header.css</file>
+            <file>file:/C:/xampp/htdocs/webIII/ProjF_Plantei/web/view/criarPlanta_page.jsp</file>
         </group>
     </open-files>
 </project-private>

@@ -13,7 +13,7 @@
         <section id="area-cadastro">
             <div id="imagem-cadastro"></div>
             <div id="container-cadastro">
-                <form method="post" action="../controller/usuario/criarUsuarioController.jsp" id="formulario-cadastro">
+                <form method="post" action="#" id="formulario-cadastro">
                     <h1><i class="fas fa-seedling"></i> Criar Conta</h1>
 
                     <div class="grupo-input">

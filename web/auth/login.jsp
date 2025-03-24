@@ -13,7 +13,7 @@
         <section id="area-login">
             <div id="imagem-login"></div>
             <div id="container-login">
-                <form action="../controller/usuario/autenticarLoginController.jsp" method="post" id="form-login">
+                <form action="#" method="post" id="form-login">
                     <h1><i class="fas fa-leaf"></i> Login</h1>
                     <div class="grupo-input">
                         <label for="email"><i class="fas fa-envelope"></i> E-mail:</label>
@@ -24,8 +24,8 @@
                         <input type="password" id="senha" name="senha" required placeholder="Digite sua senha">
                     </div>
                     <div class="grupo-botoes">
-                        <button type="submit" class="botao-enviar">Continuar</button>
-                        <button type="button" class="botao-voltar" id="botao-voltar" onclick="window.location.href = '../index.html';">Voltar</button>
+                        <button type="button" class="botao-enviar" onclick="window.location.href = '../view/home_page.jsp';">Entrar</button>
+                        <button type="button" class="botao-voltar" onclick="window.location.href = '../index.html';">Voltar</button>
                     </div>
                     <div class="link-login">
                         <p>Não tem uma conta? <a href="cadastro.jsp">Cadastre-se aqui</a></p>
